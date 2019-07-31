@@ -1,0 +1,13 @@
+node_modules/*
+public/app.bundle.css
+public/app.bundle.js
+public/fonts/*
+public/images/*
+
+config.json
+
+.idea
+*.iml
+.DS_Store
+
+package-lock.json
